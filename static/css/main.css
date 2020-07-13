@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  padding: 2em;
+}
+*{
+  padding: 0.5em;
+}
+.content{
+  text-align: center;
+}
+table{
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+table, th, td {
+  border: 1px solid black;
+  padding-right: 1em;
+  padding-left: 1em;
+}
